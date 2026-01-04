@@ -53,5 +53,3 @@ You can run this project locally or in Google Colab.
 
 ### Option 2: Run in Google Colab
 Simply copy the code from `mini_soar.py` into a new Google Colab notebook. Ensure you add `!pip install Faker` at the top of the first cell.
-
-## 📂 Project Structure
