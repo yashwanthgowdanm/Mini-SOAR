@@ -21,9 +21,6 @@ In modern cybersecurity, identity is the new perimeter. Traditional static firew
 
 The system successfully identifies simultaneous attack vectors. Below is the generated attack timeline showing the distinct patterns of Password Spraying (vertical wall) vs. Impossible Travel (green gap).
 
-![Attack Timeline](image_e66845.png)
-*(Note: Ensure you upload your 'image_e66845.png' to the repo to see this image)*
-
 ### Mitigation Output
 The system generates an automated audit log upon detection:
 | Threat Detected | Action Taken | Outcome |
